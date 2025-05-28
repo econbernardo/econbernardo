@@ -6,9 +6,12 @@ Please feel free to reach out if you have any questions or would like to discuss
 
 <picture>
   <!-- dark-mode -->
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/econbernardo/econbernardo/output/github-snake-dark.gif" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/econbernardo/econbernardo/output/github-contribution-grid-snake-dark.svg" />
   <!-- light-mode -->
-  <img alt="Contribution Snake"
-       src="https://raw.githubusercontent.com/econbernardo/econbernardo/output/github-snake.gif" />
+  <img
+    alt="Contribution Snake"
+    src="https://raw.githubusercontent.com/econbernardo/econbernardo/output/github-contribution-grid-snake.svg" />
 </picture>
+
