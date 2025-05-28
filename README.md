@@ -8,7 +8,7 @@ Please feel free to reach out if you have any questions or would like to discuss
   <!-- dark-mode -->
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/econbernardo/econbernardo/output/dist/github-snake-dark.gif" />
-  <!-- light-mode fallback -->
+  <!-- light-mode -->
   <img alt="Contribution Snake"
        src="https://raw.githubusercontent.com/econbernardo/econbernardo/output/dist/github-snake.gif" />
 </picture>
