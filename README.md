@@ -4,4 +4,4 @@ My research focuses on behavioral finance, investor behavior, and household fina
 
 Please feel free to reach out if you have any questions or would like to discuss my research further!
 
-![Contribution Snake](https://raw.githubusercontent.com/econbernardo/econbernardo/output/dist/github-snake.gif)
+![Contribution Snake](https://raw.githubusercontent.com/econbernardo/econbernardo/output/github-snake.gif)
